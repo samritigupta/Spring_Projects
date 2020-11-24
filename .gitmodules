@@ -1,3 +1,6 @@
 [submodule "SpringCoreFundamentals"]
 	path = SpringCoreFundamentals
 	url = https://github.com/samritigupta/SpringCoreFundamentals
+[submodule "SpringMVC"]
+	path = SpringMVC
+	url = https://github.com/samritigupta/SpringMVC
