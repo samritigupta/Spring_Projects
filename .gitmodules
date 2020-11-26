@@ -4,3 +4,6 @@
 [submodule "SpringMVC"]
 	path = SpringMVC
 	url = https://github.com/samritigupta/SpringMVC
+[submodule "SpringMVCPlusHibernate"]
+	path = SpringMVCPlusHibernate
+	url = https://github.com/samritigupta/SpringMVCPlusHibernate
