@@ -7,3 +7,6 @@
 [submodule "SpringMVCPlusHibernate"]
 	path = SpringMVCPlusHibernate
 	url = https://github.com/samritigupta/SpringMVCPlusHibernate
+[submodule "SpringHibernateConceptsAtEase"]
+	path = SpringHibernateConceptsAtEase
+	url = https://github.com/samritigupta/SpringHibernateConceptsAtEase
