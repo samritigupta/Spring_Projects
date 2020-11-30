@@ -13,3 +13,6 @@
 [submodule "SpringCRMHibernateUsingXMLConfig"]
 	path = SpringCRMHibernateUsingXMLConfig
 	url = https://github.com/samritigupta/SpringCRMHibernateUsingXMLConfig
+[submodule "SpringCRMHibernateUsingJavaConfig"]
+	path = SpringCRMHibernateUsingJavaConfig
+	url = https://github.com/samritigupta/SpringCRMHibernateUsingJavaConfig
